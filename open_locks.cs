@@ -59,6 +59,7 @@ public class Program
 	    }
 	}
     }
+    
     static void Main(string[] args)   
     {				       
     	 bool[] doors = new bool[100]; 
